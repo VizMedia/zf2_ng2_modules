@@ -1,0 +1,8 @@
+{
+    "name": "VizMedia/zf2_ng2_modules",
+    "description": "Basic component modules for Zend Framework 2/3, using Angular 2 (or not)",
+    "require": {
+        "php": ">=5.3.3",
+        "another-vendor/package": "1.*"
+    }
+}
