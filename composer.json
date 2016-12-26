@@ -3,13 +3,13 @@
     "description": "Basic component modules for Zend Framework 2/3, using Angular 2 (or not)",
     "require": {
         "zendframework/zend-mvc": "^3.0",
-		"VizMedia/zf2-ng2-modules": "*"
+		"VizMedia/zf2_ng2_modules": "*"
     },
 	"repositories": [
 			{
     "type": "package",
     "package": {
-        "name": "VizMedia/zf2-ng2-modules",
+        "name": "VizMedia/zf2_ng2_modules",
         "version": "1.0",
         "source": {
             "url": "https://github.com/VizMedia/zf2_ng2_modules.git",
